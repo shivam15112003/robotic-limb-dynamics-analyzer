@@ -1,0 +1,20 @@
+{
+  "model": "two-link planar limb; idealised harmonic-drive torsional compliance",
+  "dynamics_samples": 401,
+  "inverse_forward_max_error_rad_s2": 4.979350265443827e-14,
+  "rne_trajectory_median_ms": 215.0594,
+  "peak_joint_torque_Nm": [
+    11.328620955692456,
+    2.2339515422600833
+  ],
+  "gear_ratio": 100.0,
+  "torsional_natural_frequency_Hz": 6.891611192772401,
+  "illustrative_peak_gearbox_temperature_C": 25.032954432754,
+  "thermal_assumptions": {
+    "ambient_C": 25,
+    "Rth_K_W": 2,
+    "Cth_J_K": 50,
+    "transmission_efficiency": 0.8
+  },
+  "hardware_validation": false
+}
